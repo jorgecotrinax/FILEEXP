@@ -1,2 +1,0 @@
-# FILEEXP
-UPC Trabajo grupal
